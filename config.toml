@@ -1,4 +1,4 @@
-site_title = "MyArxiv-"
+site_title = "MyArxiv"
 limit_days = 7
 cache_url = "https://coopjz.github.io/MyArxiv/cache.json"
 
